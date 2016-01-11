@@ -1,0 +1,6 @@
+{
+  "extends": "standard-strict",
+  "env": {
+    "mocha": true
+  }
+}
