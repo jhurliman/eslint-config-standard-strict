@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-standard-strict",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ESLint config for ES7, following StandardJS with added checks",
   "main": "index.js",
   "scripts": {
